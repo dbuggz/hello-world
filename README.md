@@ -5,5 +5,5 @@ more
 
 lines and
 
-blandk spaces
+~blandk~ spaces
 
